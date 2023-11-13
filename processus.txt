@@ -1,0 +1,53 @@
+Exercice 1
+
+1) ps -e il afficehe tous les processus  
+
+2) ps x 
+
+3) ps -eo comm,pmem --sort +pmem
+
+gnome-shell de 3.2 %
+
+4) ps -e | grep "firefox"
+
+	s'il affiche rien, il n'est pas lance
+	
+
+exercice 2
+
+2) On tape top 
+
+Apres cliquant sur k, on tape le PID de Firefox, et entrez deux fois qui va tuer firefox
+
+Exercice 3) 
+
+1) emacs ne permet pas d'utiliser le terminal qui a lance emacs
+	emacs devient avant plan 
+
+emacs & permet d'utiliser le terminal meme si emacs n'est pas ferme 
+	
+2)jobs permet de voir la liste des commandes que nous avons traite avec son status 
+
+3) 
+bg = arriere plan (back ground) 
+	bg.. : permet de mettre 
+fg = avant plan (foreground)
+	fg .. : change le appli en foreground si il est en background, sinon il mets le appli suspendu recente au foreground 
+	
+	
+4) arrete devient complete si on kill le man gcc en utilisant kill 
+
+
+Exercice 4) 
+
+1) C-z fonctionne pour arreter le process comme kill -sigtstp
+
+2) On ne peut pas trouver la commande ddd sur ordinateur
+
+
+ 
+
+
+
+
+
